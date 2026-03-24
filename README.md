@@ -3,80 +3,82 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=00000000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF00)
 
-# 👋 Привет, я Avetis
+# 👋 Привет, я Павел
 
-**iOS Developer (Mobile)** с фокусом на создание нативных приложений для экосистемы Apple.
+**Network Engineer | Network Automation Specialist**. Этот профиль служит моей профессиональной визитной карточкой и портфолио, где я делюсь решениями и практическими скриптами автоматизации для решения реальных задач сетевых операций.
 
 ---
 
 ## 🛠️ Мой стек технологий
 
-**Языки и основные фреймворки:**
-
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+**Сетевая инженерия и автоматизация:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0055FF?style=for-the-badge&logo=swift&logoColor=white)
-
-**Инструменты и окружение:**
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/SPM-F05138?style=for-the-badge&logo=swift&logoColor=white)
+**Библиотеки и инструменты Python:**
+![Netmiko](https://img.shields.io/badge/Netmiko-00ADD8?style=for-the-badge&logo=python&logoColor=white)
+![Paramiko](https://img.shields.io/badge/Paramiko-00ADD8?style=for-the-badge&logo=python&logoColor=white)
+![NTC-Templates](https://img.shields.io/badge/NTC_Templates-00ADD8?style=for-the-badge&logo=python&logoColor=white)
 
-**Базы данных:**
+**Сетевые протоколы и специализации:**
+![BGP](https://img.shields.io/badge/BGP-FF6B35?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-FF6B35?style=for-the-badge&logo=network&logoColor=white)
+![IPsec/VPN](https://img.shields.io/badge/IPsec/VPN-4A90E2?style=for-the-badge&logo=lock&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-4A90E2?style=for-the-badge&logo=shield&logoColor=white)
+![Cisco ISE](https://img.shields.io/badge/Cisco_ISE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-![CoreData](https://img.shields.io/badge/CoreData-0B79D9?style=for-the-badge&logo=apple&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-
----
-
-## 📱 Мои iOS проекты
-
-### Проект #1
-<!-- Avetis, замени этот блок описанием своего первого проекта -->
-🚧 **Проект в активной разработке.**  
-*Здесь скоро появится описание приложения, его стека технологий и ключевых функций.*
-
-**Технологии:** `Swift` `UIKit/SwiftUI` `...`
+**Системы, контейнеризация и мониторинг:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-### Проект #2
-<!-- Avetis, замени этот блок описанием своего второго проекта -->
-🚧 **Проект в активной разработке.**  
-*Здесь скоро появится описание приложения, его стека технологий и ключевых функций.*
+## 📁 Мои проекты
 
-**Технологии:** `Swift` `UIKit/SwiftUI` `...`
+### База знаний по сетевым технологиям и автоматизации
+Этот репозиторий служит структурированной базой знаний, где я документирую решения, лучшие практики и публикую скрипты для автоматизации рутинных сетевых операций.
+
+**Содержание:**
+- **Networks/** — теоретическая база знаний по сетевым протоколам и архитектурам
+- **Python/** — теория и практика программирования для сетевой автоматизации
+- **Scripts/** — готовые Python-скрипты для решения практических задач
+- **Core/** — основные концепции и структура знаний
+
+**Технологии:** `Python` `Netmiko` `Ansible` `Cisco IOS` `Git` `Markdown`
 
 ---
 
-## 🧑‍🏫 Преподавательская деятельность (Моё хобби)
+### Другие проекты
+🚧 **В разработке...**  
+*Здесь скоро появятся новые проекты, связанные с продвинутой автоматизацией и сетевыми решениями.*
 
-Помимо коммерческой разработки, я с удовольствием делюсь знаниями. Преподаю программирование детям, помогая им сделать первые шаги в IT через создание игр и интерактивных проектов.
+---
 
-**Направления преподавания:**
-*   **Python** — основы программирования и логики.
-*   **Веб-разработка (HTML/CSS)** — создание первых сайтов.
-*   **Визуальное программирование (Scratch)** — развитие алгоритмического мышления.
-*   **Разработка игр:**
-    *   **Roblox Studio** — создание миров и скриптование на Lua.
-    *   **Unity (C#)** — основы геймдева и 3D-логики.
+## 📚 Специализация
 
-Это направление позволяет мне видеть программирование с новой, творческой стороны и постоянно поддерживать интерес к обучению.
+Специализируюсь на:
+- **Автоматизации сетевых операций** с использованием Python, Ansible и специализированных библиотек
+- **Проектировании и настройке** сетевой инфраструктуры (BGP, OSPF, VPN, Security)
+- **Внедрении и поддержке** решений сетевой безопасности
+- **Мониторинге и анализе** сетевой инфраструктуры
+- **Контейнеризации** сетевых сервисов и инструментов
 
 ---
 
 ## 📫 Контакты
 
-Готов к обсуждению проектов, сотрудничества или просто к обмену опытом.
+Открыт для профессиональных обсуждений, сотрудничества и обмена опытом в области сетевых технологий и автоматизации.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Shokkobarokko-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shokkobarokko)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
+
+*Благодарю за посещение моего профиля. Буду рад обсудить сетевую инженерию и автоматизацию!*
+
 <!-- Не забудь заменить YOUR_USERNAME в ссылках на статистику на свой реальный GitHub username -->
