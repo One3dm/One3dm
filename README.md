@@ -88,10 +88,10 @@ Network engineer focused on **automation** and **infrastructure optimization**. 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**YOUR_USERNAME**&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=One3dm&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_USERNAME**&layout=compact&theme=dark&bg_color=0D1117&title_color=2ECC71&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=**YOUR_USERNAME**&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=One3dm&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71)
 
 </div>
 
