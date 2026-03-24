@@ -104,7 +104,7 @@ Network engineer focused on **automation** and **infrastructure optimization**. 
 - **Email:** `stepashka9594@gmail.com`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=**YOUR_USERNAME**&color=2ECC71&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=One3dm&color=2ECC71&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
