@@ -1,132 +1,156 @@
 <div align="center">
 
-# 🌸 Добро пожаловать в мой цифровой лес Миядзаки! 🌸
+# Pavel | Network Automation Engineer
 
-**🍃 Павел | Хранитель Сетевых Потоков 🍃**
-
-*Превращаю хаос кабелей в гармонию кода*  
-*Автоматизирую рутину, как магия Хала, чтобы освободить время для чудес ✨*
-
-> *"В каждом пакете — история. В каждом скрипте — магия."* 🍃
+╭──────────────────────────────────────────────────╮
+│                                                  │
+│   🍃 Network Infrastructure & Automation 🍃     │
+│                                                  │
+╰──────────────────────────────────────────────────╯
 
 </div>
 
 ---
 
-## 🎋 Немного обо мне
+## About Me
+
+Network engineer specializing in automation and infrastructure optimization. 
+Focused on transforming manual network operations into efficient, automated workflows.
 
 ```python
-class ForestNetworkGuardian:
+class NetworkEngineer:
     def __init__(self):
-        self.name = "Павел"
-        self.role = "Хранитель Автоматизированных Потоков"
-        self.language_spoken = ["ru", "en", "python", "cisco_cli"]
-        self.current_focus = "Превращаю рутину в поэзию автоматизации 🌿"
-        self.fun_fact = "Могу настроить OSPF быстрее, чем Катаскебе испечёт пирог 🥧"
+        self.name = "Pavel"
+        self.role = "Network Automation Specialist"
+        self.technologies = ["Python", "Cisco", "Linux", "Ansible", "Docker"]
+        self.focus = "Network automation and infrastructure as code"
     
-    def say_hi(self):
-        print("🍃 Спасибо, что заглянули в мой цифровой лес! Давайте творить магию вместе 🤖✨")
+    def automate(self, task):
+        return f"Automating: {task} with Python & Netmiko"
 
-me = ForestNetworkGuardian()
-me.say_hi()
+engineer = NetworkEngineer()
 ```
 
 ---
 
-## 🛠️ Мой волшебный арсенал
+## Technical Stack
 
-<details>
-<summary>🐍 <strong>Python & Магия Автоматизации</strong></summary>
-<br>
+### 🐍 Automation & Development
 
-**Основные инструменты:**
-- 🔌 **Netmiko** — проводник через лес сетевых устройств 🌲
-- 🔐 **Paramiko** — шёпот SSH в ночной тишине 🌙
-- 📋 **NTC-Templates** — магические свитки для парсинга 📜
-- 🎭 **Jinja2** — искусство создания идеальных конфигураций ✨
-- 🤖 **Ansible** — армия духов для автоматизации
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-</details>
-
-<details>
-<summary>🌐 <strong>Сетевые тропинки и протоколы</strong></summary>
-<br>
-
-**Магия соединений:**
-- 🔄 **BGP** — Великий Путь, соединяющий миры 🚃
-- 🕸️ **OSPF** — кратчайшие тропинки внутри королевства 🗺️
-- 🔐 **IPsec/VPN** — невидимые мосты сквозь небо 🌉
-- 🛡️ **Cisco ISE** — стражи у врат ⚔️
-- 🌍 **VLAN, STP, EtherChannel** — основа основ
-
-</details>
-
-<details>
-<summary>⚙️ <strong>Системы & Механизмы Хала</strong></summary>
-<br>
-
-**Инфраструктура:**
-- 🐧 **Linux** — фундамент моего леса
-- 🐳 **Docker** — летающие острова-контейнеры ☁️
-- 📊 **Zabbix** — всевидящее око
-- 🔍 **Wireshark** — магический кристалл для анализа
-
-</details>
+**Libraries & Tools:**
+- **Netmiko** - Multi-vendor library for SSH connections to network devices
+- **Paramiko** - SSHv2 protocol library for secure connections
+- **NTC-Templates** - TextFSM templates for parsing network device output
+- **Jinja2** - Template engine for configuration generation
+- **Napalm** - Network Automation and Programmability Abstraction Layer
 
 ---
 
-## 🚀 Мои магические проекты
+### 🌐 Network Technologies
 
-### 📚 Network Knowledge Base — Лес Знаний
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=juniper-networks&logoColor=white" />
+</p>
 
-Структурированная база знаний по сетевым технологиям и автоматизации. 
-Как если бы Тоторо помогал раскладывать знания по полочкам 🌳
+**Protocols & Solutions:**
+- **Routing:** BGP, OSPF, EIGRP, Static Routing
+- **Switching:** VLANs, STP/RSTP, VTP, EtherChannel
+- **Security:** IPsec VPN, SSL VPN, ACLs, Cisco ISE
+- **Data Center:** VXLAN, VPC, Nexus OS
 
-**Структура:**
+---
+
+### ⚙️ Systems & DevOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+---
+
+## Projects
+
+### 📚 Network Automation Framework
+
+**Status:** Active Development
+
+Comprehensive automation framework for enterprise network infrastructure.
+
+**Features:**
+- Automated configuration backup and deployment
+- Network device discovery and inventory management
+- Compliance checking and configuration validation
+- Bulk configuration changes with rollback capability
+
+**Tech Stack:**
 ```
-📁 Project Structure:
-├── 🌐 Networks/     ← Теория протоколов
-├──  Python/       ← Практика программирования
-├── 📜 Scripts/      ← Готовые решения
-└── 🎯 Core/         ← Архитектура
+Python 3.10+ | Netmiko | Ansible | Jinja2 | YAML | Git
 ```
 
-**Технологии:** `Python` `Netmiko` `Ansible` `Cisco IOS` `Git`
+**Structure:**
+```
+network-automation/
+├── inventory/          # Device inventory and credentials
+├── templates/          # Jinja2 configuration templates
+├── scripts/           # Python automation scripts
+├── playbooks/         # Ansible playbooks
+└── documentation/     # Technical documentation
+```
 
 ---
 
-### 🔮 В разработке
+### 🔧 Network Configuration Manager
 
-- 🤖 Telegram-бот для мониторинга сети
-- 🎨 Web-интерфейс для управления скриптами
-- 📊 Система аналитики трафика
+Centralized system for managing multi-vendor network device configurations.
 
----
-
-## 🎨 Сейчас работаю над
-
-- 📝 Документацией сетевых решений
-- 🐍 Скриптами для автоматизации Cisco
-- 🧠 Изучением новых фишек Python
-- ☕ Чаепитием и размышлениями о коде 🥧
+**Capabilities:**
+- Version control integration (Git)
+- Automated compliance auditing
+- Change management and approval workflows
+- Real-time configuration drift detection
 
 ---
 
-## 🤝 Давайте знакомиться!
+### 📊 Network Monitoring Solutions
+
+Implementation of monitoring and alerting systems for network infrastructure.
+
+**Tools:**
+- Zabbix for network device monitoring
+- Custom Python scripts for log analysis
+- SNMP polling and trap processing
+- Network performance baselining
+
+---
+
+## Current Focus
+
+- Network automation and Infrastructure as Code (IaC)
+- CI/CD pipelines for network configurations
+- Python development for network operations
+- Cloud networking and hybrid infrastructure
+
+---
+
+## Connect
 
 <div align="center">
 
-**💬 Готов обсудить:**
-
-🌐 Сетевые технологии — мосты между мирами  
-🤖 Автоматизация — магия, работающая сама  
-🐍 Python для инфраструктуры  
-☕ Жизнь, вселенную и аниме Миядзаки 🎬
-
-**📫 Связаться:**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -134,10 +158,8 @@ me.say_hi()
 
 <div align="center">
 
-### 🌟 *"Лучший способ предсказать будущее — автоматизировать его!"*
+**"Automation is not about replacing people, it's about empowering them."**
 
-**🎌 Спасибо за визит! Увидимся в коммитах! 🎌**
-
-*🍃 Пусть код будет чистым, а пинг — низким 🍃*
+🍃 *Clean code, stable networks, low latency* 🍃
 
 </div>
