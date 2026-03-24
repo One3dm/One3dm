@@ -89,7 +89,7 @@ Network engineer focused on **automation** and **infrastructure optimization**. 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=One3dm&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_USERNAME**&layout=compact&theme=dark&bg_color=0D1117&title_color=2ECC71&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=One3dm&layout=compact&theme=dark&bg_color=0D1117&title_color=2ECC71&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=One3dm&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71)
 
@@ -99,9 +99,9 @@ Network engineer focused on **automation** and **infrastructure optimization**. 
 
 ## 📫 Connect
 
-- **LinkedIn:** [linkedin.com/in/**your-profile**](https://linkedin.com/in/**your-profile**)
-- **Telegram:** [@**your_handle**](https://t.me/**your_handle**)
-- **Email:** `your.email@example.com`
+- **LinkedIn:** [linkedin.com/in/pavel-stepanov-33471b3a5](https://linkedin.com/in/**your-profile**)
+- **Telegram:** [@Fronz3dm](https://t.me/**your_handle**)
+- **Email:** `stepashka9594@gmail.com`
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=**YOUR_USERNAME**&color=2ECC71&style=flat-square" alt="Profile views" />
